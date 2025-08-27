@@ -70,4 +70,3 @@ If implemented with proper safeguards, the interconnection could deliver **lasti
 * Estimation of **payback period & Net Present Value (NPV)**.
 * Consideration of **transmission losses, geopolitical factors, and advanced scenarios**.
 
-to also prepare a **shorter, one-paragraph README summary** (like a project description at the top of a GitHub repo), or keep this detailed structured version?
